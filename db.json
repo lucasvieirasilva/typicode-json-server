@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "repo": "dgx-sales-spa",
+      "app": "sales",
+      "release": "develop",
+      "build": 1
+    },
+    {
+      "id": 2,
+      "repo": "dgx-sales-spa",
+      "app": "sales",
+      "release": "develop",
+      "build": 2
+    },
+    {
+      "id": 3,
+      "repo": "dgx-randc-spa",
+      "app": "randc",
+      "release": "release/1.0.0",
+      "build": 1
+    },
+    {
+      "id": 3,
+      "repo": "dgx-common-basket-service",
+      "app": null,
+      "release": "release/1.0.0",
+      "build": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
